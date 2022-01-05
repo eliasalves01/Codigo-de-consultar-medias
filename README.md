@@ -2,7 +2,7 @@
 Código desenvolvido a partir das aulas realizadas pela Dio com total intuito no aprendizado. (PORTUGOL ESTUDIO)
 
 
-{
+
 	
 	funcao inicio()
 	{
