@@ -1,7 +1,7 @@
 # Codigo-de-consultar-medias
 Código desenvolvido a partir das aulas realizadas pela Dio com total intuito no aprendizado. (PORTUGOL ESTUDIO)
 
-programa
+
 {
 	
 	funcao inicio()
