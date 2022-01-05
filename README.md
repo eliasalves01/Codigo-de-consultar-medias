@@ -6,8 +6,6 @@ o codigo realizado tem intuito em calcular medias apartir das variaveis alocada 
 
 
 	
-
-{
 	
 	funcao inicio()
 	{
