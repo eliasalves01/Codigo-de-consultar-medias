@@ -18,21 +18,21 @@ o codigo realizado tem intuito em calcular medias apartir das variaveis alocada 
 		escreva("Nome do Funcionario:")
 		leia (funcionario)
 		escreva("Valores de venda do mês de Janeiro:")
-		leia(venda1)
+		leia(venda1) // VALOR DO MÊS 1
 		escreva("Valores de venda do mês de Fevereiro:")
-		leia(venda2)
+		leia(venda2) // VALOR DO MÊS 2
 		escreva("Valores de venda do mês de Março:")
-		leia(venda3)
+		leia(venda3) // VALOR DO MÊS 3
 		escreva("Valores de venda do mês de abril:")
-		leia(venda4)
+		leia(venda4)  // VALOR DO MÊS 4
 
 		media = (venda1+venda2+venda3+venda4)/4
 		//calcula a média 
 		total = (venda1+venda2+venda3+venda4)
 		//calcula o valor total
 
- escreva ("Empresa: " + empresa + "\n" + "Funcionario: " + funcionario + "\n" + "total de vendas R$: " + total + "\n" + "Media mensal R$: " + media )
-         // atua os valores em cadeia 
+                escreva ("Empresa: " + empresa + "\n" + "Funcionario: " + funcionario + "\n" + "total de vendas R$: " + total + "\n" + "Media mensal R$: " + media )
+                   // atua os valores em cadeia 
 
 		se(media>=1000) {
 			escreva("\n" + "Parabéns você atingiu sua meta semestral!")
